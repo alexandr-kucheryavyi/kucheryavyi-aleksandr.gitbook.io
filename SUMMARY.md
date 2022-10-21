@@ -1,6 +1,6 @@
-# Синтаксис
+# Table of contents
 
-* [Ідентифікатори](go0001.md)
+* [Ідентифікатори](README.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
