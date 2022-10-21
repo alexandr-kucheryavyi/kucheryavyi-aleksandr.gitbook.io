@@ -1,6 +1,6 @@
-# Table of contents
+# Синтаксис
 
-* [Ласкаво просимо.](README.md)
+* [Ідентифікатори](go0001.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
