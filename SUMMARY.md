@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Ідентифікатори](README.md)
+* [Типи данних](go0001.md)
 * [Quick Start](quick-start.md)
 
 ## Reference
