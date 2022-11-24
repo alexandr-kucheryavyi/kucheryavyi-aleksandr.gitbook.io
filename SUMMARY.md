@@ -10,6 +10,14 @@
 * [Паніка](go0007.md)
 * [Pointers](go0008.md)
 * [Struct](go0009.md)
+* [Slice](go0010.md)
+* [String](go0011.md)
+* [Interface](go0012.md)
+* [Map](go0013.md)
+* [Array](go0014.md)
+* [Методи](go0015.md)
+* [Канали](go0016.md)
+
 * [Quick Start](quick-start.md)
 
 ## Reference
